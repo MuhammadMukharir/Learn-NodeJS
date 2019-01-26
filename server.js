@@ -75,6 +75,7 @@ app.get('/profile', (req, res) => {
 })
 
 app.post('/profile', (req, res) => {
+    
     // res.send('<h1>helloooooo</h1>');
     // console.log(req.body);
     // const user = {
